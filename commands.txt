@@ -1,0 +1,4 @@
+\l
+\db
+\s
+\s commands.txt
